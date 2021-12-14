@@ -1,4 +1,4 @@
-s program prints Hello, world!
+ program prints Hello, world!
 
 print('Hello, world!')
 
